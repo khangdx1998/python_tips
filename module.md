@@ -36,6 +36,7 @@ logging.basicConfig(level = logging.DEBUG,
 
 logging.info("Hello")                
 ```
+Logging modules docs: https://docs.python.org/3/library/logging.html
 
 # **Argparse module**
 ```python
