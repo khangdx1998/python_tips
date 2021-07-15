@@ -1,4 +1,4 @@
-**Thresh** là một phần của **Processing**. Các **thresh** trong 1 chương trình không chạy cùng 1 thời điểm mà swap qua lại
+**Thresh** là một phần của **Processing**. Các **thresh** trong 1 chương trình không chạy cùng 1 thời điểm mà swap qua lại(Concurrent)
 
 - Nếu không thêm join vào code khi start 2 thread
 ```python
